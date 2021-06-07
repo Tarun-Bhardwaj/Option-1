@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Middleman
+# Middlemansss
 gem 'middleman', '~> 4.3.7'
 gem 'middleman-gh-pages', '~> 0.4.1'
 gem 'middleman-syntax', '~> 3.0.0'
